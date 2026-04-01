@@ -26,7 +26,7 @@
     </site>
     <snapshotRepository>
             <id>nexus</id>
-             <name>maven-sonar-nexus-Snapshot Nexus Repository</name
+             <name>maven-sonar-nexus-Snapshot Nexus Repository</name>
             <url>http://52.77.233.184:8081/repository/maven-sonar-nexus-Snapshot/</url>
         </snapshotRepository>
         <repository>
